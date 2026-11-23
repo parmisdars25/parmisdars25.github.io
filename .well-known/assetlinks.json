@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.parmisdars25.twa",
+        "sha256_cert_fingerprints": ["58:80:C9:1C:72:12:71:D2:77:1C:02:5D:04:38:E7:E7:3E:42:12:DC:1C:DD:9A:96:BE:1A:51:0B:DE:71:FE:93"]
+      }
+    }]
